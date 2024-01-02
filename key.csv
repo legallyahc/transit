@@ -1,0 +1,20 @@
+Abbreviation,Agency Abbreviatio,Agency Long,City,Notes
+STM,STM,Société de transport de Montréal,Montréal,NA
+TTC,TTC,Toronto Transit Comission,Toronto,NA
+Air,Airport,Generic Airport,NA,"Generic coding for airport operated transit, generally associated with their IATA code"
+GO,GO,Go Transit,Toronto,NA
+CTA,CTA,Chicago Transit Authority,Chicago,NA
+AMTRAK,AMTRAK,Amtrak,NA,No city association; national operator
+MTA,MTA,Metropolitan Transit Authory,New York City,NA
+SEPTA,SEPTA,Southeast Pennsylvania Transit Authority,Philadelphia,NA
+UP,UP,Union Pearson Express,Toronto,I think UP is operated outside of GO? They are both part of Metrolinx
+STL,METRO,Bi-State Development Agency,Saint Louis,NA
+CRTA,RTA,Greater Cleveland Regional Transit Authority,Cleveland,CRTA bc New Orleans also uses RTA iirc
+VIA,VIA,Via Rail,NA,No city association; national operator
+AT,AT,Auckland Transport,Auckland,NA
+PTV,PTV,Public Transport Victoria,Melbourne,"Not melbourne specific IG, but for the purpose of this sheet..."
+NSW,NSW,Transport for New South Wales,Sydney,NA
+ICNZ,IC,Intercity,NA,No city association; national operator
+MET,MET,Metlink,Wellington,NA
+TLBC,TL,TransLink,Vancouver,NA
+CDPQ,CDPQ,CDPQ Infra,Montréal,NA

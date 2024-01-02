@@ -1,0 +1,75 @@
+Date,Time Boarded,Line,Name,Direction,Bus,Ridden before?,Stop Boarded,Stop Alighted,Time Alighted,Transfer,Mode
+2022-11-14,11:57,420,Notre-Dame-de-Grace,East,29-148,1,Sherbrooke / Girouard,De Maisonneuve / Mansfield,12:19,FALSE,BUS
+2022-11-19,19:01,66,The Boulevard,West,29-040,1,Côte-des-Neiges / Sherbrooke,Côte-Saint-Luc / Ellerdale,19:17,TRUE,BUS
+2022-11-24,11:16,55,Saint-Laurent,South,29-024,2,Saint-Urban / Duluth,Saint-Urban / Sherbrooke,NA,FALSE,BUS
+2022-12-01,9:47,24,Sherbrooke,East,39-035,2,Sherbrooke / Côte-des-Neiges,Université McGill,9:53,FALSE,BUS
+2022-12-08,17:11,24,Sherbrooke,West,38-024,3,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,17:17,FALSE,BUS
+2022-12-15,0:40,144,Av. des Pins,West,29-055,2,des Pins / du Parc,des Pins / Côte-des-Neiges,0:45,FALSE,BUS
+2023-01-04,0:03,144,Av. Des Pins,West,31-017,3,des Pins / Saint-Laurent,des Pins / Côte-des-Neiges,0:10,FALSE,BUS
+2023-01-10,19:28,24,Sherbrooke,East,39-036,3,Sherbrooke / St-Mathieu,Sherbrooke / Peel,19:32,FALSE,BUS
+2023-01-19,12:57,24,Sherbrooke,West,38-020,2,Sherbrooke / Côte-des-Neiges,Université McGill,13:02,FALSE,BUS
+2023-01-25,11:36,24,Sherbrooke,West,39-036,3,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,11:40,FALSE,BUS
+2023-01-31,23:37,1,Green Line,West,10-561,1,Station McGill,Station Guy-Concordia,23:40,FALSE,METRO
+2023-02-07,20:05,144,Av. des Pins,East,29-017,1,Docteur-Penfield / Côte-des-Neiges,Docteur-Penfield / Peel,20:08,FALSE,BUS
+2023-02-11,20:45,144,Av. des Pins,West,29-014,1,des Pins / du Parc,des Pins / Côte-des-Neiges,20:52,FALSE,BUS
+2023-02-16,17:19,1,Green Line,West,78-020,1,Station Guy-Concordia,Station Lionel-Groulx,17:23,FALSE,METRO
+2023-02-24,20:50,24,Sherbrooke,East,39-018,2,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,20:54,FALSE,BUS
+2023-02-26,19:43,TTC_506,Carlton,East,4537,2,College / Beverly,Parliament / Gerrard,19:59,FALSE,STREETCAR
+2023-02-27,15:51,TTC_509,Harbourfront,West,4532,1,Queens Quay / Rees,Bathurst / Queens Quay,15:56,FALSE,STREETCAR
+2023-02-28,10:26,TTC_4,McCowan,East,3021,1,Scarborough Centre,McCowan,10:27,TRUE,LIGHT_RAIL
+2023-03-02,12:57,55,St-Laurent,North,29-052,1,Station St-Laurent,St-Laurent / Rachel,13:08,TRUE,BUS
+2023-03-04,13:35,144,Av. des Pins,East,29-015,3,Docteur-Penfield / Côte-des-Neiges,des Pins / Hôtel-de-Ville,13:49,FALSE,BUS
+2023-03-08,18:37,107,Verdun,South,29-121,2,Centre / Condé,Station Charlevoix,18:43,TRUE,BUS
+2023-03-13,11:08,24,Sherbrooke,West,38-023,1,Sherbrooke / Mansfield,Sherbrooke / Côte-des-Neiges,11:13,FALSE,BUS
+2023-03-18,0:12,4,Yellow Line,North,78-141,1,Station Jean-Drapeau,Station Berri-UQAM,0:16,FALSE,METRO
+2023-03-23,16:07,1,Green Line,East,78-070,1,Station McGill,Station Place-des-Arts,16:08,FALSE,METRO
+2023-03-30,22:33,144,Av. des Pins,East,29-038,1,Docteur-Penfield / Côte-des-Neiges,des Pins / du Parc,22:39,FALSE,BUS
+2023-04-04,20:46,24,Sherbrooke,East,38-024,3,Sherbrooke / Côte-des-Neiges,Sherbrooke / Peel,20:49,FALSE,BUS
+2023-04-28,16:51,1,Green Line,East,10-659,2,Station Atwater,Station McGill,16:56,FALSE,METRO
+2023-05-02,17:53,165,Côte-des-Neiges,North,31-804,1,Station Guy-Concordia,Côte-des-Neiges / Summerhill,NA,TRUE,BUS
+2023-05-12,13:44,AMTRAK_TE,Texas Eagle,"San Antonio, TX",21,1,Chicago Union Station (CHI),St. Louis Gateway Station (STL),19:20,FALSE,INTERCITY_TRAIN
+2023-05-20,11:17,1,Green Line,East,10-536,2,Station Guy-Concordia,Station Pie-IX,11:32,FALSE,METRO
+2023-05-22,17:34,1,Green Line,East,10-564,1,Station Guy-Concordia,Station McGill,17:36,FALSE,METRO
+2023-05-24,16:26,MTA_Q,Broadway Av Express,Coney Island,5734,1,Canal St,DeKalb Av,16:35,TRUE,METRO
+2023-06-04,17:04,2,Orange Line,North,10-223,1,Station Berri-UQAM,Station Mont-Royal,17:07,TRUE,METRO
+2023-06-11,0:03,80,Parc,South,29-818,1,Parc / Fairmount,Parc / des Pins,0:09,TRUE,BUS
+2023-06-14,22:44,1,Green Line,West,79-675,1,Station Berri-UQAM,Station Guy-Concordia,22:50,TRUE,METRO
+2023-06-20,11:57,STL_RED,Red Line,Shilo-Scott,4001,1,Central West End,Cortex,11:59,FALSE,LIGHT_RAIL
+2023-06-24,22:43,1,Green Line,East,10-499,2,Station Lionel-Groulx,Station Guy-Concordia,22:46,TRUE,METRO
+2023-06-30,20:53,1,Green Line,East,10-265,1,Station Guy-Concordia,Station Berri-UQAM,20:59,TRUE,METRO
+2023-07-02,20:19,1,Green Line,West,10-449,2,Station Berri-UQAM,Station Guy-Concordia,20:25,TRUE,METRO
+2023-07-10,9:22,AT_70,Botany to Britomart via Panmure,Botany,HE248,2,Waterloo Quadrant,Stop B Westfield Newmarket,9:36,FALSE,BUS
+2023-07-13,18:16,AT_DEV,Devonport Ferry,Downtown,NA,NA,Devonport Ferry Terminal,Downtown Ferry Terminal Pier 2,18:29,FALSE,FERRY
+2023-07-22,15:05,AT_70,Botany to Britomart via Panmure,Botany,HE163,1,Stop C Auckland Universities,Symmonds St / Karangahape Rd,15:06,TRUE,BUS
+2023-07-26,18:49,AT_Western,Western Line,Swanson,AMP415,1,Newmarket Station,Kingsland Station,18:58,TRUE,TRAIN
+2023-07-30,12:38,AT_HMB,Half Moon Bay Ferry,Half Moon Bay,MSA124317,3,Downtown Ferry Terminal Pier 1,Half Moon Bay Ferry Terminal,13:18,FALSE,FERRY
+2023-08-06,19:04,AT_76,Glen Innes to Britomart via Orakei,Britomart,NB5761,1,Paritai Dr,Countdown Quay St,19:12,FALSE,BUS
+2023-08-11,18:40,AT_Western,Western Line,Swanson,AMT185,2,Parnell Station,Kingsland Station,18:53,FALSE,TRAIN
+2023-08-17,8:44,AT_70,Botany to Britomart via Panmure,Botany,HE507,1,Stop A Waterloo Quadrant,Park Rd / Auckland City Hospital,8:52,FALSE,BUS
+2023-08-20,11:21,AT_18,New Lynn to City Centre via Great North Rd,City Centre,NB5031,2,Stop A Avondale,Bullock Track,11:37,FALSE,BUS
+2023-08-27,16:55,AT_74,Onehunga to Glen Innes via Panmure,Onehunga,GB5240,1,Erima Ave,Stop C Panmure Station,17:03,FALSE,BUS
+2023-08-28,18:00,PTV_Mernda,Mernda Line,Mernda,180M,1,West Richmond Station,North Richmond Station,18:02,FALSE,TRAIN
+2023-08-29,15:44,PTV_202,Yarra Bend - Melbourne University,Yarra Bend,380368,1,Brunswick St / Johnson St,Victoria Park / Johnson St,15:52,TRUE,BUS
+2023-08-30,17:39,NSW_CCN,Central Coast & Newcastle Line,Central,9158,1,Epping Station,Central Station,18:03,TRUE,TRAIN
+2023-09-02,9:15,ICNZ_IC6501,Auckland - Wellington,Wellington,NA,NA,Auckland Sky City Bus Terminal,Wellington Central Railway Station,20:03,FALSE,INTERCITY_BUS
+2023-09-09,14:28,AT_RBE,Rail Bus Replacement Eastern Line,Manukau,NB1402,1,Stop B Otahuhu Station,Stop A Manukau Station,14:53,TRUE,BUS
+2023-09-12,14:59,AT_75,Glen Innes To Wynyard Quarter via Remuera Rd,Glen Innes,NB5302,1,Auckland Art Gallery,Park Rd / Auckland City Hospital,15:04,FALSE,BUS
+2023-09-22,16:23,AT_Tamaki,TāmakiLink,Britomart,NB5780,3,Stop A Mission Beach,Countdown Quay St,16:36,FALSE,BUS
+2023-09-27,20:09,AT_Inner,InnerLink,Clockwise,NB4028,4,Summer St,Victoria Park Market,20:14,TRUE,BUS
+2023-10-02,14:59,AT_75,Glen Innes To Wynyard Quarter via Remuera Rd,Glen Innes,NB5036,1,Auckland Art Gallery,Park Rd / Auckland City Hospital,15:03,FALSE,BUS
+2023-10-16,19:26,AT_Inner,InnerLink,Anticlockwise,NB4028,4,Olympic Pool,Britomart Queens Arcade,19:38,TRUE,BUS
+2023-10-27,17:30,AT_72X,Botany and Howick to Britomart via Panmure and Motorway,Botany,HE145,2,Stop A Waterloo Quadrant,Stop B Panmure Station,17:49,FALSE,BUS
+2023-11-04,10:56,AT_Inner,InnerLink,Clockwise,NB4036,2,Churchill St,Parnell Library,11:04,FALSE,BUS
+2023-11-07,23:51,AT_25L,Lynnfield to City Centre via Dominion Rd,City Centre,NB5007,2,View Rd / Dominion Rd,Stop E Auckland Universities,23:58,FALSE,BUS
+2023-11-13,18:55,AT_25L,Lynnfield to City Centre via Dominion Rd,City Centre,NB5308,2,Puketapapapa,Stop E Auckland University,19:16,FALSE,BUS
+2023-11-27,12:28,MET_2,Miramar/Seatoun - Hataitai - Wellington - Karori,Karori,5703,1,Lambton Quay / Cable Car Ln,Zealandia / Chaytor St (Appleton Park),12:43,FALSE,BUS
+2023-12-01,0:14,PTV_Sunbury,Sunbury Line,City Loop Express,1188T,1,Southern Cross Station,Flinders St Station,0:18,TRUE,TRAIN
+2023-12-07,14:20,PTV_1,East Coburg - South Melbourne Beach,East Coburg,2057,1,Ferrars St / Park St,Arts Precinct / St Kilda Rd,14:33,TRUE,STREETCAR
+2023-12-09,10:28,PTV_Glen,Glen Waverly Line,City (Flinders St),1310T,1,Kooyong Station,Richmond Station,10:37,TRUE,TRAIN
+2023-12-10,18:03,PTV_Glen,Glen Waverly Line,Glen Waverly,156M,2,Southern Cross Station,Kooyong Station,18:21,TRUE,TRAIN
+2023-12-11,14:28,TLBC_Expo,Expo Line,King George,340,1,Waterfront,King George,15:11,TRUE,LIGHT_METRO
+2023-12-12,17:09,1,Green Line,Honoré-Beaugrand,79-635,1,Station Guy-Concordia,Station Place-des-Arts,17:13,FALSE,METRO
+2023-12-13,16:02,24,Sherbrooke,West,31-086,1,Sherbrooke / Mansfield,Sherbrooke / Chomedy,16:11,FALSE,BUS
+2023-12-16,23:55,1,Green Line,Honoré-Beaugrand,10-518,1,Station Verdun,Station Atwater,0:03,FALSE,METRO
+2023-12-27,14:38,STL_Red,Red Line,Lambert Airport,4001-A,1,Forest Park-DeBaliviere,Lambert Airport Terminal #1,14:58,TRUE,LIGHT_RAIL
+2023-12-30,16:59,MBTA_Providence,Providence Line,South Station,844,1,Ruggles,South Station,17:09,FALSE,COMMUTER_RAIL
